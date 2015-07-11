@@ -18,7 +18,7 @@ Soluble components requires PHP 5.3+
 
 ## Installation
 
-Soluble/Spreadsheet can be installed via composer. For composer documentation, please refer to
+Soluble/Japha can be installed via composer. For composer documentation, please refer to
 [getcomposer.org](http://getcomposer.org/).
 
 
