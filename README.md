@@ -19,7 +19,7 @@ This is the main repository for soluble components. Please refer to indivual com
 | `Normalist`   | Normalize database access across projects                   |  [![Latest Stable Version](https://poser.pugx.org/soluble/normalist/v/stable.svg)](https://packagist.org/packages/soluble/normalist)   |
 | `Db`          | Database access core libraries and metadata schema readers.  | [![Latest Stable Version](https://poser.pugx.org/soluble/db/v/stable.svg)](https://packagist.org/packages/soluble/db)       | [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/belgattitude/soluble-db/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/belgattitude/soluble-db/?branch=master) |
 | `Spreadsheet` | Core Excel library       | [![Latest Stable Version](https://poser.pugx.org/soluble/spreadsheet/v/stable.svg)](https://packagist.org/packages/soluble/spreadsheet)      |
-| `Japha`       | Japha                  | [![Latest Stable Version](https://poser.pugx.org/soluble/japha/v/stable.svg)](https://packagist.org/packages/soluble/japha)   | [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/belgattitude/soluble-japha/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/belgattitude/soluble-japha/?branch=master) |
+| `Japha`       | Java bridge              | [![Latest Stable Version](https://poser.pugx.org/soluble/japha/v/stable.svg)](https://packagist.org/packages/soluble/japha)   | [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/belgattitude/soluble-japha/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/belgattitude/soluble-japha/?branch=master) |
 
 
 Soluble\Normalist
@@ -37,7 +37,6 @@ Soluble\Imediate
 ----------------
 
 Soluble\Japha
-
 -------------
 
 Soluble\Db
